@@ -1,6 +1,6 @@
 # Estudiante de IA, Rosario 🇦🇷
 
-Cursando la Tecnicatura Universitaria en Inteligencia Artificial en la UNR. Mitad del camino, construyendo desde cero.
+Cursando la Tecnicatura Universitaria en Inteligencia Artificial en la UNR.
 
 ## Conocimientos
 
