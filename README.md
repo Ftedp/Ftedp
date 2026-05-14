@@ -12,6 +12,7 @@ Algoritmos de Búsqueda · Bases de datos y Data Warehousing · ETL y visualizac
 🗄️ Diseño de bases de datos relacionales con SQL  
 🔄 Pipeline ETL + Data Warehouse + dashboard Power BI  
 🖼️ Procesamiento de imágenes con OpenCV
+
 🚀 API REST con FastAPI  
 
 ## Stack
