@@ -2,9 +2,9 @@
 
 Cursando la Tecnicatura Universitaria en Inteligencia Artificial en la UNR. Mitad del camino, construyendo desde cero.
 
-## Qué estoy aprendiendo
+## Conocimientos
 
-Programación · Bases de datos y Data Warehousing · ETL y visualización con Power BI · Procesamiento de imágenes con OpenCV  
+Algoritmos de Búsqueda · Bases de datos y Data Warehousing · ETL y visualización con Power BI · Procesamiento de imágenes con OpenCV  
 
 ## Proyectos en este perfil
 
