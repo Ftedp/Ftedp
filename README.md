@@ -20,7 +20,7 @@ Algoritmos de Búsqueda · Bases de datos y Data Warehousing · ETL y visualizac
 
 ## Buscando
 
-Mi primer rol técnico en análisis de datos. Disponible para trabajar en remoto.
+Mi un rol técnico en análisis de datos.
 
 ---
 📍 Rosario, Argentina · 🎓 Tecnicatura en IA (en curso)
