@@ -20,7 +20,7 @@ Algoritmos de Búsqueda · Bases de datos y Data Warehousing · ETL y visualizac
 
 ## Buscando
 
-Mi un rol técnico en análisis de datos.
+Un rol técnico en análisis de datos.
 
 ---
 📍 Rosario, Argentina · 🎓 Tecnicatura en IA (en curso)
