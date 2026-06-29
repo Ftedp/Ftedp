@@ -18,9 +18,6 @@ Algoritmos de Búsqueda · Bases de datos y Data Warehousing · ETL y visualizac
 
 `Python` `OpenCV` `FastAPI` `SQL` `Power BI` `ETL`
 
-## Buscando
-
-Un rol técnico en análisis de datos.
 
 ---
 📍 Rosario, Argentina · 🎓 Tecnicatura en IA (en curso)
